@@ -1,0 +1,165 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYWI5YWU1YzA5ZTMyZjgxNDdmNjkyMTU0ZDJmZGE0NzYxYmRhM2Q1OWJjMjUyYmMyNGIyNDdkMjAxNzdiOWE1ODgwNDQ2ZWJiMTY3MTEwYWJhZTg5ODQ3NDg0OTIwZjhlNThkYjg4NDI0MmY1YTEzMGZhOWEwYTQ3ZjFjZjEzYmIwOTU3NjhmMTYzYTM3OTM4MzhlMDNmMjMyY2NlOGE3NjRlOTBmNzkxMDNjMDRlYWE4NmUxYTQ1Y2FkODM4NzExIiwiaXYiOiJhN2U2MGYzNGFkOWY5MmFmM2Y2MDAyMTYzNmQxYzhhYmQwZmJkY2Y5NjMzYjVhYzYifQ=="
+        },
+        "id": "9DO-5GiTJ"
+    },
+    "targetConnection": {
+        "name": "images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOTk0ZDcwMTFhY2ZhMWM0NGVhMzc2MmM4NzAwYmQzNmY3NTg2Y2E3ZWUyOTFjYWM3ZDEwZjFkOTIyNzljYjYwMDMzOGFmODQxMzYyYjA3ZDY2MmJmOGY3MTVlMTg5ZjQ4NGQyYTI4MmQyM2IxOTFkOWMwYjE1NTkyNDRiMTY5ZDE4NjBiZGNmZDlmZmJjNDljYzdkNDM0YzIxOWViZGE1NGQ5YTNmNGIzN2QzNzkwODUxMDc2ZmUyYzU5YzhjYjc1IiwiaXYiOiI5ZGFjZDJkYzlkOWYzOTllOTZiNTUwYjUzZDQwZmIyMmMwYWU1Mjg2OTI1YzMyYWYifQ=="
+        },
+        "id": "9DO-5GiTJ"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "step",
+            "color": "#5db300"
+        }
+    ],
+    "id": "uheJzZ_Cv",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzFkNGI1YmJhNDYzNzc5YWVhZTVjNmE4MjUwZjFiOTJmMGRmZTAzMzE2MjQ4MGRhMjFlODVjYWU0YjIxZjI3YzY2MDQwM2M4MzQ1NjdiYzdlZDQwNzNlZThlNGNmYTIwIiwiaXYiOiI3MGEyODUxMDZlZmZkMzdlYzU4YjNkMTJhM2UyZjkxYzY0ZTUzZmE1NGY0NzY0MjIifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "a7863bfd09d214574373de50701019d9",
+    "assets": {
+        "a7863bfd09d214574373de50701019d9": {
+            "format": "png",
+            "id": "a7863bfd09d214574373de50701019d9",
+            "name": "1.png",
+            "path": "file:/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1.png",
+            "size": {
+                "width": 269,
+                "height": 159
+            },
+            "state": 2,
+            "type": 1
+        },
+        "151472d2705acc91c988915d113392c4": {
+            "format": "png",
+            "id": "151472d2705acc91c988915d113392c4",
+            "name": "10.png",
+            "path": "file:/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/10.png",
+            "size": {
+                "width": 269,
+                "height": 159
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75f57bc6281fc9f1427ebe40936916b5": {
+            "format": "png",
+            "id": "75f57bc6281fc9f1427ebe40936916b5",
+            "name": "2.png",
+            "path": "file:/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2.png",
+            "size": {
+                "width": 269,
+                "height": 159
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b67d67790ad08dc1792d9a7be5b5f75": {
+            "format": "png",
+            "id": "9b67d67790ad08dc1792d9a7be5b5f75",
+            "name": "3.png",
+            "path": "file:/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/3.png",
+            "size": {
+                "width": 269,
+                "height": 159
+            },
+            "state": 2,
+            "type": 1
+        },
+        "022aae3ff1aa1a1bc771b910cecdbd0a": {
+            "format": "png",
+            "id": "022aae3ff1aa1a1bc771b910cecdbd0a",
+            "name": "4.png",
+            "path": "file:/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/4.png",
+            "size": {
+                "width": 269,
+                "height": 159
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4fa30495a44d4645b0e657a7b38b39de": {
+            "format": "png",
+            "id": "4fa30495a44d4645b0e657a7b38b39de",
+            "name": "5.png",
+            "path": "file:/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/5.png",
+            "size": {
+                "width": 269,
+                "height": 159
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3bcb4e0004b67717a1d56c11f0f8e212": {
+            "format": "png",
+            "id": "3bcb4e0004b67717a1d56c11f0f8e212",
+            "name": "6.png",
+            "path": "file:/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/6.png",
+            "size": {
+                "width": 269,
+                "height": 159
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef14fcd759934419b8b614bc74c4da86": {
+            "format": "png",
+            "id": "ef14fcd759934419b8b614bc74c4da86",
+            "name": "7.png",
+            "path": "file:/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/7.png",
+            "size": {
+                "width": 269,
+                "height": 159
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d950ad56c7799c1be784de37c59c372d": {
+            "format": "png",
+            "id": "d950ad56c7799c1be784de37c59c372d",
+            "name": "8.png",
+            "path": "file:/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/8.png",
+            "size": {
+                "width": 269,
+                "height": 159
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16cfe82d6bc9d640d5203bb6bf6ab7d9": {
+            "format": "png",
+            "id": "16cfe82d6bc9d640d5203bb6bf6ab7d9",
+            "name": "9.png",
+            "path": "file:/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/9.png",
+            "size": {
+                "width": 269,
+                "height": 159
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

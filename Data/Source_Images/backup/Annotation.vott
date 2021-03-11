@@ -1,0 +1,37 @@
+{
+    "name": "Annotation",
+    "securityToken": "Annotation Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYThiZWFjN2YwODU4MjMzMDFiZDkxNDMxZDdiMmMxZGQ2MTBmM2FiYjJjMzFkNzVmNWE4ZTMxYmY5OTk4MTE0ODc5ZDYzYzk5ZjI5NTFlYWMzZjliZThiOWUyZTUxODZmYTgwNjg0YWNlNmVlMzRmODgwMzEyMDdiMDYwYjQ1NDdhOGU2ZTBjOTc3NzZlNDQ1NDgwZWQ5NWY0ZDE5ZDgwYiIsIml2IjoiNmQ5YmEyMWJhZWQ5Y2I3YmIwNDQ4ZWU5MzNlNTg4OGNiOTM3NTdjNTYxMzZiYTU2In0="
+        },
+        "id": "HpPPzoD48"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDM2ODk1YWM2OGFkYTZkZTE4ZGY3OWI3MWFmMDgzMWZiOWJmM2FlMDM1MTJhY2UyYjM4ZmIyMDFmZTA2YTZhNDc0ZGFmYjRlMWY2ZWJiN2FlMmJhNTBkMTM2YTViYTM3YzA2Y2Q2YjJhNzc4ODlhMTFlOTJhMzExM2FlYjI4MzEyNjdiYWY5YzdiZjFlYzU4MjY1YWU0NjlkYzAyMzYzZCIsIml2IjoiZDA2MTEzODg3MDkzNzQxYjMzYjg1MmI5YjJmZjBiOTBiZDNhZjNhYjZhNTY4ZTJiIn0="
+        },
+        "id": "HpPPzoD48"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [],
+    "id": "oQN6ZrpMz",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYTMxY2U1ZmVhOGIwY2RjM2UyNGI3NGQxYjQ4NWY0NmM5NGU1MmQyZTQ2NzA3MDRkZjJmMTc2ZWU3ODhmMzM4ODNiMDNlYTczMjMyYmVjYTI5ZmZjYzg5ZWIzOThiYjBlIiwiaXYiOiIzMjk5ZTdkMTM2ZGU1YmYwNjJiMDk0OGY5NDUxMGI3MzhmZDIzZTMyNTg0NzlkMTYifQ=="
+        }
+    },
+    "version": "2.2.0"
+}

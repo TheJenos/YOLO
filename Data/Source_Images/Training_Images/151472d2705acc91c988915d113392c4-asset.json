@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "151472d2705acc91c988915d113392c4",
+        "name": "10.png",
+        "path": "file:/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/10.png",
+        "size": {
+            "width": 269,
+            "height": 159
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yTkvCmFbT",
+            "type": "RECTANGLE",
+            "tags": [
+                "step"
+            ],
+            "boundingBox": {
+                "height": 24.890186915887853,
+                "width": 37.68599033816425,
+                "left": 231.31400966183574,
+                "top": 50.10543224299066
+            },
+            "points": [
+                {
+                    "x": 231.31400966183574,
+                    "y": 50.10543224299066
+                },
+                {
+                    "x": 269,
+                    "y": 50.10543224299066
+                },
+                {
+                    "x": 269,
+                    "y": 74.99561915887851
+                },
+                {
+                    "x": 231.31400966183574,
+                    "y": 74.99561915887851
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

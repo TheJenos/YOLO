@@ -1,0 +1,10 @@
+/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/1.png 43,60,89,85,0
+/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/10.png 231,50,269,75,0
+/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2.png 38,59,85,84,0
+/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/4.png 38,59,85,85,0
+/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/3.png 74,77,120,102,0
+/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/6.png 73,76,120,103,0
+/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/5.png 231,50,269,76,0
+/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/7.png 74,78,120,103,0
+/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/8.png 73,76,120,102,0
+/home/thejenos/FunProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9.png 179,75,225,100,0
